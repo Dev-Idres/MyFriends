@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="DroidMapping\DroidMapping.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.4d0082414d9341fd" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DroidMapping\MainActivity.cs">
+    <Files>
+      <File FileName="DroidMapping\MainActivity.cs" Line="65" Column="38" />
+      <File FileName="DroidMapping\GoogleMapsKey.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DroidMapping AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

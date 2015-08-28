@@ -1,0 +1,9 @@
+C:\Users\mohammahmed\Documents\Projects\DroidMapping\DroidMapping\obj\Debug\assemblies\DroidMapping.dll
+C:\Users\mohammahmed\Documents\Projects\DroidMapping\DroidMapping\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\mohammahmed\Documents\Projects\DroidMapping\DroidMapping\obj\Debug\assemblies\mscorlib.dll
+C:\Users\mohammahmed\Documents\Projects\DroidMapping\DroidMapping\obj\Debug\assemblies\System.Core.dll
+C:\Users\mohammahmed\Documents\Projects\DroidMapping\DroidMapping\obj\Debug\assemblies\System.dll
+C:\Users\mohammahmed\Documents\Projects\DroidMapping\DroidMapping\obj\Debug\assemblies\System.Xml.dll
+C:\Users\mohammahmed\Documents\Projects\DroidMapping\DroidMapping\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\mohammahmed\Documents\Projects\DroidMapping\DroidMapping\obj\Debug\assemblies\Xamarin.GooglePlayServices.Base.dll
+C:\Users\mohammahmed\Documents\Projects\DroidMapping\DroidMapping\obj\Debug\assemblies\Xamarin.GooglePlayServices.Maps.dll
